@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Jinwook!</h1>
 
-An Android developer from Korea
+Android developer in Korea
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> </a> 
